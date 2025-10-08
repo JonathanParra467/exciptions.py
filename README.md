@@ -1,0 +1,2 @@
+# exciptions.py
+class work
